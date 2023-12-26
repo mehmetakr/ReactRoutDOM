@@ -23,7 +23,7 @@
 
 <h1>Proje Gif</h1>
 
-<img src="./src/images/e-commerce.gif">
+<img src="./projemrouter/src/images/e-commerce.gif">
 
 
 
